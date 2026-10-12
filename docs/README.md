@@ -1,0 +1,20 @@
+# Contents
+
+[Repository README](../README.md)
+
+- [Chapter 0. Before you start](00-introduction.md)
+- [Chapter 1. Getting ready: accounts and subscriptions](01-accounts-and-plans.md)
+- [Chapter 2. Installing Claude Code](02-install-claude-code.md)
+- [Chapter 3. Installing Codex](03-install-codex.md)
+- [Chapter 4. Environment setup: Git, Node.js, Python and common Windows problems](04-environment-setup.md)
+- [Chapter 5. First steps](05-first-steps.md)
+- [Chapter 6. Making it remember you: CLAUDE.md, AGENTS.md and memory](06-memory-and-rules.md)
+- [Chapter 7. Saving usage: context, caching and compaction](07-saving-usage.md)
+- [Chapter 8. Division of labor: Claude coordinates, Codex writes code, Sonnet writes prose, Pro takes on hard problems](08-division-of-labor.md)
+- [Chapter 9. Subagents and background work: getting AI to follow long-running tasks](09-subagents-and-background-work.md)
+- [Chapter 10. Extensions: Skills, MCP, hooks and plugins](10-extensions.md)
+- [Chapter 11. Using other model providers](11-other-model-providers.md)
+- [Chapter 12. Verification and safety](12-verification-and-safety.md)
+- [Chapter 13. Troubleshooting quick reference](13-troubleshooting.md)
+- [Chapter 14. Worked examples: from an idea to delivery](14-worked-examples.md)
+- [Appendix. Command reference and config templates](appendix.md)
